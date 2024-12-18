@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Online Exams</string>
+    <string name="error_quiz_title_empty">Quiz title cannot be empty</string>
+</resources>
